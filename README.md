@@ -34,8 +34,8 @@ Cofundador y Líder Técnico de una plataforma bilateral diseñada para digitali
 
 ### 📈 Mis Estadísticas de GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelcardenas-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Angel" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcardenas-dev&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="310" />
+  <img src="https://github-readme-stats-sigma-gray-19.vercel.app/api?username=angelcardenas-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Angel" width="410" />
+  <img src="https://github-readme-stats-sigma-gray-19.vercel.app/api/top-langs/?username=angelcardenas-dev&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="310" />
 </p>
 
 ---
